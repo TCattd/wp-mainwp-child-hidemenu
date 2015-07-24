@@ -10,7 +10,8 @@
     "authors": [
         {
             "name": "Esteban Cuevas",
-            "email": "esteban@attitude.cl"
+            "email": "esteban@attitude.cl",
+            "homepage": "http://www.attitude.cl"
         }
     ],
     "minimum-stability": "dev"
