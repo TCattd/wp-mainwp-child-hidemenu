@@ -3,7 +3,7 @@
 Plugin Name: MainWP Child: hide menu
 Plugin URI: https://github.com/TCattd/wp-mainwp-child-hidemenu
 Description: Hides MainWP's child menu item from clients
-Version: 1.0.0
+Version: 1.0.1
 Author: Esteban Cuevas
 Author URI: http://www.attitude.cl
 License: GPLv2
