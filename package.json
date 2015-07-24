@@ -1,23 +1,8 @@
 {
-    "name": "tcattd/wp-mainwp-child-hidemenu",
+    "name": "wp-mainwp-child-hidemenu",
     "description": "Hides MainWP Child menu item",
-    "keywords"   : [
-        "wordpress",
-        "mainwp"
-    ],
-    "homepage": "https://github.com/TCattd/wp-mainwp-child-hidemenu/    ",
-    "license": "GPL-2.0+",
-    "type": "wordpress-plugin",
-    "authors": [
-        {
-            "name": "Esteban Cuevas",
-            "email": "esteban@attitude.cl",
-            "homepage": "http://www.attitude.cl"
-        }
-    ],
-    "require": {
-        "composer/installers": "~1.0"
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    "repository": {
+       "type": "git",
+        "url": "https://github.com/TCattd/wp-mainwp-child-hidemenu"
+    }
 }
