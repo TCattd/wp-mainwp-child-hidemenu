@@ -1,0 +1,16 @@
+{
+    "name": "TCattd/wp-mainwp-child-hidemenu",
+    "description": "Hides MainWP Child menu item",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "^1.0"
+    },
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Esteban Cuevas",
+            "email": "esteban@attitude.cl"
+        }
+    ],
+    "minimum-stability": "stable"
+}
