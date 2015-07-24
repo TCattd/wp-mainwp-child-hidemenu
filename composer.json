@@ -1,5 +1,5 @@
 {
-    "name": "TCattd/wp-mainwp-child-hidemenu",
+    "name": "tcattd/wp-mainwp-child-hidemenu",
     "description": "Hides MainWP Child menu item",
     "type": "wordpress-plugin",
     "require": {
@@ -13,5 +13,5 @@
             "email": "esteban@attitude.cl"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
