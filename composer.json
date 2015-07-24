@@ -1,7 +1,7 @@
 {
     "name": "tcattd/wp-mainwp-child-hidemenu",
     "description": "Hides MainWP Child menu item",
-    "type": "wordpress-plugin",
+    "type": "wordpress-muplugin",
     "license": "GPLv2",
     "authors": [
         {
