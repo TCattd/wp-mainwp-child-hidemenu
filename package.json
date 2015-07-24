@@ -1,8 +1,0 @@
-{
-    "name": "wp-mainwp-child-hidemenu",
-    "description": "Hides MainWP Child menu item",
-    "repository": {
-       "type": "git",
-        "url": "https://github.com/TCattd/wp-mainwp-child-hidemenu"
-    }
-}
