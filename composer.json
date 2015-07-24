@@ -1,9 +1,13 @@
 {
     "name": "tcattd/wp-mainwp-child-hidemenu",
     "description": "Hides MainWP Child menu item",
-    "keywords"   : ["wordpress"],
+    "keywords"   : [
+        "wordpress",
+        "mainwp"
+    ],
+    "homepage": "https://github.com/TCattd/wp-mainwp-child-hidemenu/    ",
+    "license": "GPL-2.0+",
     "type": "wordpress-plugin",
-    "license": "GPLv2",
     "authors": [
         {
             "name": "Esteban Cuevas",
@@ -13,5 +17,7 @@
     ],
     "require": {
         "composer/installers": "~1.0"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
